@@ -4,8 +4,8 @@ from django.urls import reverse
 
 from dal import autocomplete
 
-from pruebas.models import Country, Person
-from pruebas.forms import PersonForm
+from .models import Country, Person
+from .forms import PersonForm
 
 
 # Create your views here.

@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'pruebas',
+    # My apps
+    'daltry'
     # Third party apps
     'dal',
     'dal_select2',
